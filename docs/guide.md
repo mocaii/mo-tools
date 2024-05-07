@@ -6,6 +6,6 @@
 
 ## 使用方法
 
-## 项目 git 地址
-
-http://git.i.mytophome.com/common-components/hooks/tree/dev
+```sh
+npm install mo-tools
+```
