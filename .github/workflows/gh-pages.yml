@@ -2,8 +2,7 @@ name: github pages
 
 on:
   push:
-    branches:
-      - master # default branch
+    branches: ['master']
 
 jobs:
   deploy:
@@ -19,7 +18,7 @@ jobs:
       - name: Build with dumi
         run: npm run docs:build
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./docs-dist
