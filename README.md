@@ -1,9 +1,9 @@
-# mo-tools
+# mo-tools-fe
 
-[![NPM version](https://img.shields.io/npm/v/mo-tools.svg?style=flat)](https://npmjs.org/package/mo-tools)
-[![NPM downloads](http://img.shields.io/npm/dm/mo-tools.svg?style=flat)](https://npmjs.org/package/mo-tools)
+[![NPM version](https://img.shields.io/npm/v/mo-tools-fe.svg?style=flat)](https://npmjs.org/package/mo-tools-fe)
+[![NPM downloads](http://img.shields.io/npm/dm/mo-tools-fe.svg?style=flat)](https://npmjs.org/package/mo-tools-fe)
 
-方法、hooks封装
+方法、hooks 封装
 
 ## Usage
 

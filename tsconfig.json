@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "mo-tools": ["src"],
-      "mo-tools/*": ["src/*", "*"]
+      "mo-tools-fe": ["src"],
+      "mo-tools-fe/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"],

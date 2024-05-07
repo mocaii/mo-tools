@@ -7,5 +7,5 @@
 ## 使用方法
 
 ```sh
-npm install mo-tools
+npm install mo-tools-fe
 ```
