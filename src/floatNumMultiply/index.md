@@ -6,7 +6,7 @@ group: 普通方法
 
 # floatNumMultiply
 
-浮点数乘/除运算
+浮点数乘/除运算。
 
 ## 基本使用
 
