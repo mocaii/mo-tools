@@ -2,6 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   outputPath: 'docs-dist',
+  base: '/mo-tools-fe/',
+  publicPath: '/mo-tools-fe/',
   themeConfig: {
     name: 'mo-tools',
     logo: 'http://mocaii.cn/favicon.ico',
